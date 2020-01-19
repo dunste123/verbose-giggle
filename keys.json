@@ -1,0 +1,9 @@
+{
+  "appClientID": "395889861363761163",
+  "imageKeys": { "large": "dpcomeatme", "small": "dptransform", "smallPaused": "pause_button_clean", "pants": "pants"},
+  "scopes": ["rpc", "rpc.api"],
+  "rpcTransportType": "ipc",
+  
+  
+  "havePantsId": "434057060636950528"
+}
